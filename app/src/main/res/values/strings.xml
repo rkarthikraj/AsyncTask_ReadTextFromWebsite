@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReadTextFromWebsite_AsyncTask</string>
+    <string name="display">Application Started</string>
+</resources>
